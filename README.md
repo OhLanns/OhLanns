@@ -31,7 +31,7 @@ motto: "Clean code, continuous learning, and creative solutions."
 - 🌱 **Currently learning**: Advanced architecture, cloud deployment, and system design.
 - 👯 **Looking to collaborate on**: Open-source projects and creative apps.
 - 💬 **Ask me about**: JavaScript, TypeScript, Web Development, or Tech in general.
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com) • [Instagram](https://instagram.com)
+- 📫 **How to reach me**: [LinkedIn](https://linkedin.com) • [Email](ahmadmaulankudus@gmail.com) • [Instagram](https://www.instagram.com/ohlanns?rpxt=MXdoZHk2Ynh3d3dpaw==)
 
 ---
 
@@ -97,11 +97,11 @@ Dihasilkan otomatis via GitHub Actions (file .github/workflows/snake.yml)
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="ahmadmaulankudus@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://instagram.com/" target="_blank">
+<a href="https://www.instagram.com/ohlanns?rpxt=MXdoZHk2Ynh3d3dpaw==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
