@@ -3,9 +3,16 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hi%20there,%20I'm%20OhLanns!%20👋&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
+<!-- Background Wallpaper Banner (Luffy Gear 5) -->
+<a href="https://github.com/OhLanns">
+  <img src="https://images4.alphacoders.com/132/thumb-1920-1329454.jpeg" width="100%" alt="Luffy Gear 5 vs Kaido" />
+</a>
+
+<br/><br/>
+
 <!-- Typing SVG -->
 <a href="https://github.com/OhLanns">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Constantly+building+%26+learning;Turning+coffee+into+code+%E2%98%95;Passionate+about+Modern+Web+Dev!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Constantly+building+%26+learning;Turning+vision+into+reality+%E2%9A%A1;Passionate+about+Modern+Web+Dev!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +38,7 @@ motto: "Clean code, continuous learning, and creative solutions."
 - 🌱 **Currently learning**: Advanced architecture, cloud deployment, and system design.
 - 👯 **Looking to collaborate on**: Open-source projects and creative apps.
 - 💬 **Ask me about**: JavaScript, TypeScript, Web Development, or Tech in general.
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com) • [Instagram](https://instagram.com)
+- 📫 **How to reach me**: [LinkedIn](https://linkedin.com) • [Email](mailto:ahmadmaulankudus@gmail.com) • [Instagram](https://instagram.com)
 
 ---
 
@@ -97,7 +104,7 @@ Dihasilkan otomatis via GitHub Actions (file .github/workflows/snake.yml)
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:ahmadmaulankudus@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
