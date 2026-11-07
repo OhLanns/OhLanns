@@ -67,7 +67,7 @@ Dihasilkan otomatis via GitHub Actions (file .github/workflows/snake.yml)
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=OhLanns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" width="400" />
+      <img src="https://github-stats-extended.vercel.app/api?username=OhLanns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38bdf8&icon_color=38bdf8" alt="GitHub Stats" width="400" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=OhLanns&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="400" />
@@ -75,7 +75,11 @@ Dihasilkan otomatis via GitHub Actions (file .github/workflows/snake.yml)
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhLanns&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OhLanns&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OhLanns&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
